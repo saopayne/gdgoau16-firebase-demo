@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "867096359703",
+    "firebase_url": "https://gdgoau-todo.firebaseio.com",
+    "project_id": "gdgoau-todo",
+    "storage_bucket": "gdgoau-todo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867096359703:android:2fdab419e09ed9fb",
+        "android_client_info": {
+          "package_name": "com.tracchis.saopayne.gdgoau_todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867096359703-226dngbq6v6k02ii7k31gm4amn07kngl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tracchis.saopayne.gdgoau_todo",
+            "certificate_hash": "FF341151B808E92731F9A227D27F09F70143BAB9"
+          }
+        },
+        {
+          "client_id": "867096359703-bqbv9gjvu4pcdnrt5a4caiod7dpp29ib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnYxm82SNsZTrJHseEcR8GiLIe9njZYyo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867096359703-bqbv9gjvu4pcdnrt5a4caiod7dpp29ib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

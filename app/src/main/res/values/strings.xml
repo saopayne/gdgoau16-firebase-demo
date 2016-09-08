@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">GDGOAU-Todo</string>
+    <string name="delete_task">Delete</string>
+    <string name="add_task">Add</string>
 </resources>
